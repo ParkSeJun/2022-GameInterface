@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "R3CR30JBMAW",
         "name": "com.DefaultCompany.GameInterface",
-        "processId": 30243,
+        "processId": 32394,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -36,6 +36,18 @@
             "deviceId": "R3CR30JBMAW",
             "name": "com.DefaultCompany.GameInterface",
             "processId": 30243,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR30JBMAW",
+            "name": "com.DefaultCompany.GameInterface",
+            "processId": 17059,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR30JBMAW",
+            "name": "com.DefaultCompany.GameInterface",
+            "processId": 32394,
             "exited": false
         }
     ],
